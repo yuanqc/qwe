@@ -1,0 +1,85 @@
+<view class="classname">
+<span class="{{yq==0?'zqxc':''}}" data-c="0" bindtap="tapName">足球现场</span>
+<span class="{{yq==1?'zqxc':''}}" data-c="1" bindtap="tapName">足球生活</span>
+<span class="{{yq==2?'zqxc':''}}" data-c="2" 
+bindtap="tapName">足球美女</span>
+</view>
+  <swiper duration="1000" circular="true"       class="swiper-box" current="{{yq}}" bindchange="bindChange">
+  <swiper-item class="item-box">
+  <view class="srol">
+    <view>
+      <image src="/imgs/1.png"></image>
+      <image src="/imgs/2.png"></image>
+    </view>
+    <view>
+      <image src="/imgs/3.png"></image>
+      <image src="/imgs/4.png"></image>
+    </view>
+    <view>
+      <image src="/imgs/1.png"></image>
+      <image src="/imgs/2.png"></image>
+    </view>
+    </view>
+    </swiper-item>
+
+    <swiper-item class="item-box">
+    <view class="srol">
+    <view>
+      <image src="/imgs/11.png"></image>
+      <image src="/imgs/12.png"></image>
+    </view>
+    <view>
+      <image src="/imgs/11.png"></image>
+      <image src="/imgs/12.png"></image>
+    </view>
+    <view>
+      <image src="/imgs/12.png"></image>
+      <image src="/imgs/11.png"></image>
+    </view>
+    </view>
+    </swiper-item>
+
+    <swiper-item class="item-box">
+  <view class="srol">
+    <view>
+      <image src="/imgs/13.png"></image>
+      <image src="/imgs/2.png"></image>
+    </view>
+    <view>
+      <image src="/imgs/1.png"></image>
+      <image src="/imgs/13.png"></image>
+    </view>
+    <view>
+      <image src="/imgs/13.png"></image>
+      <image src="/imgs/2.png"></image>
+    </view>
+    </view>
+    </swiper-item>
+  </swiper>
+
+  <view class="foot">
+    <view>
+      <image src="/imgs/5.png"></image>
+      <span>首页</span>
+    </view>
+    <view>
+      <image src="/imgs/6.png"></image>
+      <span>发现</span>
+    </view>
+     <view>
+     
+    </view>
+  
+    <view>
+      <image src="/imgs/8.png"></image>
+      <span>我的</span>
+    </view>
+    <view>
+      <image src="/imgs/9.png"></image>
+      <span>退出</span>
+    </view>
+      <view class="ccsm">
+      <image src="/imgs/7.png"></image>
+    
+  </view>
+</view>

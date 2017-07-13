@@ -1,0 +1,14 @@
+<view class="classname">
+<view class="cc">
+<input type="text" placeholder="手机号" />
+</view>
+<view class="cc">
+<input type="text" placeholder="密码" />
+</view>
+<view class="ccc">
+还没有行号？点击此处立即<navigator class="c1" url="/pages/user/user">注册</navigator>
+</view>
+<button class="btn">提交</button>
+
+</view>
+

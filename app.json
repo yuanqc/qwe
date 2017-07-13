@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/user/user",
+    "pages/login/login",
+    "pages/user/user",
+    "pages/index/index",
+    "pages/logs/logs"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#0dc441",
+    "navigationBarTitleText": "微信",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh": true,
+    "backgroundColor": "blue"
+  },
+  "debug": true
+}

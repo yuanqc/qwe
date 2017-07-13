@@ -1,0 +1,8 @@
+ {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#0dc441",
+    "navigationBarTitleText": "足球圈-登录",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh": true,
+    "backgroundColor": "blue"
+  }
